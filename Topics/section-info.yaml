@@ -1,0 +1,10 @@
+content:
+- toString()
+- Inner classes
+- The Map interface
+- Data Transfer Object in Spring
+- Lambda expressions
+- Threads as objects
+- Custom threads
+- Thread management
+- Thread synchronization
